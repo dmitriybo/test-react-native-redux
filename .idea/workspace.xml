@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971e6cf6-8c94-4233-85f6-75ea1d17f5b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test-react-native-redux.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppHeaderIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PhotoPicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/AppNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/AboutScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/BookedScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/CreateScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/PostScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +50,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622403174949</updated>
-      <workItem from="1622403176048" duration="13000" />
+      <workItem from="1622403176048" duration="6640000" />
     </task>
     <servers />
   </component>
